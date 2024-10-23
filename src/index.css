@@ -1,0 +1,84 @@
+.color-body {
+  height: 100vh;
+  background-color: #eee;
+}
+.font {
+  font-family: "Almarai", sans-serif;
+  font-size: 20px;
+}
+.title {
+  color: #224f61;
+  font-family: Almarai;
+  font-size: 30px;
+  font-weight: bold;
+  letter-spacing: 0;
+  line-height: 64px;
+}
+.rectangle {
+  height: 600px;
+  border-radius: 15px;
+  background-color: #ffffff;
+  border: 2px solid #555555;
+  margin-bottom: 10px;
+  box-shadow: 2px 5px 5px #ccc;
+  overflow: auto;
+  scrollbar-width: none;
+}
+.dates-count {
+  color: #555555;
+  font-weight: 600;
+  margin-bottom: 20px;
+}
+.underline {
+  height: 1px;
+  width: 200px;
+  border-radius: 10px;
+  border: 2px solid #b45b35;
+}
+.mt-0 {
+  margin-top: 0;
+}
+.btn-search {
+  color: #b45b35;
+  border-radius: 8px solid #b45b35;
+  background-color: white;
+}
+.btn-search:hover {
+  color: white;
+  background-color: #b45b35;
+  border-radius: 8px solid white;
+}
+.brand-color {
+  color: #b45b35;
+}
+.btnn {
+  border: 1px solid #b45b35;
+  border-radius: 5px;
+  padding: 7px;
+  background-color: white;
+}
+.btnn:hover {
+  color: white;
+  background-color: #b45b35;
+}
+.img-item {
+  border-radius: 7px;
+  width: 190px !important;
+  height: 230px;
+}
+.item-title,
+.item-price {
+  color: #555555;
+  font-family: Almarai;
+  font-size: 16px;
+  letter-spacing: 0;
+  font-weight: bold;
+  line-height: 20px;
+}
+.item-description {
+  color: #555555;
+  font-family: Almarai;
+  font-size: 16px;
+  letter-spacing: 0;
+  line-height: 20px;
+}
